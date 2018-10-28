@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/lloydjm77/pojo-tester.svg?branch=master)](https://travis-ci.com/lloydjm77/pojo-tester)
+
 # POJO and Class Testing Utilities
 
 ## About
