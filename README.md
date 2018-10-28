@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/lloydjm77/pojo-tester.svg?branch=master)](https://travis-ci.com/lloydjm77/pojo-tester)
+[![codecov](https://codecov.io/gh/lloydjm77/pojo-tester/branch/master/graph/badge.svg)](https://codecov.io/gh/lloydjm77/pojo-tester)
 
 # POJO and Class Testing Utilities
 
